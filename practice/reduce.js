@@ -11,3 +11,4 @@ let result = data.reduce((acc, item) => acc + item.price * item.count, 0);
 
 console.log(result);
 console.log(result);
+console.log(result);
